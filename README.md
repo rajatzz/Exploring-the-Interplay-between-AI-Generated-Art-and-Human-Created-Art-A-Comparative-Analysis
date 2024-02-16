@@ -39,12 +39,12 @@ Welcome to our project exploring the interplay between AI-generated and human-cr
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/exploring-ai-and-human-art.git
+   git clone https://github.com/rajatzz/Exploring-the-Interplay-between-AI-Generated-Art-and-Human-Created-Art-A-Comparative-Analysis.git
    ```
 
 2. Navigate to the project directory:
    ```
-   cd exploring-ai-and-human-art
+   cd Exploring-the-Interplay-between-AI-Generated-Art-and-Human-Created-Art-A-Comparative-Analysis
    ```
 
 3. Explore the code, findings, and visuals within the repository.
